@@ -23,11 +23,7 @@
 #ifndef INCLUDED_GR_PROBE_RATE_IMPL_H
 #define INCLUDED_GR_PROBE_RATE_IMPL_H
 
-#ifdef HAVE_CONFIG_H
-#include "config.h"
-#endif
-
-#include <blocks/probe_rate.h>
+#include <gnuradio/blocks/probe_rate.h>
 
 namespace gr {
   namespace blocks {
